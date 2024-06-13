@@ -1,4 +1,4 @@
-public struct PackageManagerTest {
+public struct PackageManager {
     public init() {
       print("PackageManagerTest is here")
     }
